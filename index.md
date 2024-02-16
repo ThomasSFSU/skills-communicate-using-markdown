@@ -10,3 +10,7 @@
   let bar = 2;
   console.log(foo+bar);
 ```
+
+### Task List
+- [X] Check this box
+- [ ] Don't check this one
